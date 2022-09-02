@@ -1,5 +1,9 @@
-- 👋 Hi, My name is Mohammad. Thanks for taking the time to view my GitHub Profile.
+**Hi There 👋**
+
+My name is Mohammad. Thanks for taking the time to view my GitHub Profile.
+
 - 👀 I’m interested in Business Analytics, Statistical Analysis, and Machine Learning
+- 🌱 I’m currently developing a machine learning course
 
 <!---
 
