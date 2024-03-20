@@ -1,6 +1,6 @@
 ### Hi There 👋
 
-🚀 I'm Mohammad, a passionate data enthusiast with a keen interest in Business Analytics, Statistical Analysis, and Machine Learning.
+🚀 I'm Mo, a passionate data enthusiast with a keen interest in Business Analytics, Statistical Analysis, and Machine Learning.
 
 📊 I thrive on transforming raw data into actionable insights. My background includes developing and implementing machine learning models, leveraging statistical analysis for meaningful interpretations, and optimizing processes to drive business efficiency.
 
@@ -18,7 +18,7 @@
 
 ### Courses
 
-📚 Check out my [Machine Learning Course](https://github.com/Rahdar82/Machine_Learning_Course), where I cover fundamental concepts and practical applications to help learners dive into the world of ML.
+📚 Check out my [Machine Learning Course](https://github.com/mo-rahdar/Machine_Learning_Course), where I cover fundamental concepts and practical applications to help learners dive into the world of ML.
 
 ### Let's Connect!
 
