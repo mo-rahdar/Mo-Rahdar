@@ -18,19 +18,11 @@
 
 ### Courses
 
-📚 Check out my [Machine Learning Course](https://github.com/mo-rahdar/Machine_Learning_Course), where I cover fundamental concepts and practical applications to help learners dive into the world of ML.
+📚 Check out my [Machine Learning Course](https://github.com/mo-rahdar/Machine_Learning_Course), where I cover fundamental concepts and practical applications to help learners dive into the ML world.
 
 ### Let's Connect!
 
-🌐 Explore my repositories for projects, code snippets, and more. Connect with me on [LinkedIn](https://www.linkedin.com/in/rahdar/), and let's discuss all things data!
+🌐 Explore my repositories for projects, code snippets, and more. Connect with me on [LinkedIn](https://www.linkedin.com/in/rahdar/), and let's discuss all the data!
 
-
-
-<!---
-Rahdar82/Rahdar82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me through 
-
---->
+Thanks!
+Mohammad Rahdar
