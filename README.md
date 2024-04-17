@@ -25,4 +25,5 @@
 🌐 Explore my repositories for projects, code snippets, and more. Connect with me on [LinkedIn](https://www.linkedin.com/in/rahdar/), and let's discuss all the data!
 
 Thanks!
+
 Mohammad Rahdar
