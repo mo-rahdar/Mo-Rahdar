@@ -1,10 +1,10 @@
 ### Hi There 👋
 
-🚀 I'm Mo, a passionate data enthusiast interested in Business Analytics, Statistical Analysis, and Machine Learning.
+I'm Mo, a passionate data enthusiast interested in Business Analytics, Statistical Analysis, and Machine Learning.
 
-📊 I thrive on transforming raw data into actionable insights. My background includes developing and implementing machine learning models, leveraging statistical analysis for meaningful interpretations, and optimizing processes to drive business efficiency.
+My background includes developing and implementing machine learning models, leveraging statistical analysis for meaningful interpretations, and optimizing processes to drive business efficiency.
 
-💡 In addition to my practical experience, I've designed and developed a comprehensive Machine Learning course. Teaching is my way of contributing to the community and spreading knowledge about the fascinating world of ML.
+In addition to my practical experience, I've designed and developed a comprehensive Machine Learning course. Teaching is my way of contributing to the community and spreading knowledge about the fascinating world of ML.
 
 ### Interests and expertise
 - 👀 **Business Analytics:** Uncovering patterns and trends in data to inform strategic decision-making.  
