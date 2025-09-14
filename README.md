@@ -1,6 +1,6 @@
 ### Hi There 👋
 
-I'm Mo, a passionate data enthusiast interested in Business Analytics, Statistical Analysis, and Machine Learning.
+I'm Mohammad, a passionate data enthusiast interested in Business Analytics, Statistical Analysis, and Machine Learning.
 
 My background includes developing and implementing machine learning models, leveraging statistical analysis for meaningful interpretations, and optimizing processes to drive business efficiency.
 
